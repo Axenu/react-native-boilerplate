@@ -9,6 +9,7 @@
 import React, { Component } from "react";
 import { Platform, StyleSheet, Text, View } from "react-native";
 import Icon from "react-native-vector-icons/dist/FontAwesome";
+import YouTube from "react-native-youtube";
 
 const instructions = Platform.select({
   ios: "Press Cmd+R to reload,\n" + "Cmd+D or shake for dev menu",

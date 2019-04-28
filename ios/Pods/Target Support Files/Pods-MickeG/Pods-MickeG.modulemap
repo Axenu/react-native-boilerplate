@@ -1,0 +1,6 @@
+module Pods_MickeG {
+  umbrella header "Pods-MickeG-umbrella.h"
+
+  export *
+  module * { export * }
+}
